@@ -19,3 +19,5 @@ jupyter notebook
 ```
 
 DecisionTree.ipynb : 의사결정 나무
+
+![Tree image](https://myoctocat.com/assets/images/base-octocat.svg)
